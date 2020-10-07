@@ -1,1 +1,2 @@
-python test two
+print(2*4)
+
